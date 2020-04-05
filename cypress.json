@@ -1,0 +1,6 @@
+{
+  "ignoreTestFiles": ["**/data/*.json", "cookies.json", "**/cookies*.*"],
+  "viewportHeight": 1000,
+  "viewportWidth": 1200,
+  "watchForFileChanges": false
+}

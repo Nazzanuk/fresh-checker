@@ -1,0 +1,16 @@
+{
+  "name": "amazon-fresh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.3.0",
+    "moment": "^2.24.0"
+  },
+  "scripts": {
+    "start": "cypress open"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}

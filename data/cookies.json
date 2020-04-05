@@ -1,0 +1,110 @@
+[
+  {
+    "name": "csm-hit",
+    "value": "tb:s-RHGCN8S5VEP3N9DWCRAP|1586113251779&t:1586113251779&adb:adblk_no",
+    "path": "/",
+    "domain": "www.amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 1646593251
+  },
+  {
+    "name": "ubid-acbuk",
+    "value": "261-3658444-2534564",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2082758401.161049
+  },
+  {
+    "name": "session-id-time",
+    "value": "2082758401l",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2082758401.161113
+  },
+  {
+    "name": "session-id",
+    "value": "261-9476312-6312349",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2082758401.161141
+  },
+  {
+    "name": "x-wl-uid",
+    "value": "1svRjwH+a+aagnw6fIUE2oHFz7vvayYez7h9coN/6m1FF1xfp/j2NQCOaG/f+93cat0YmOfYz2/ixvMOFnDkns1gGGIUFE8YdUkgo6x8XsTisqZbCZjMVeZHvd0TqM95Tow0xuxZWgow=",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2217265247
+  },
+  {
+    "name": "x-acbuk",
+    "value": "qotPLAVX2IpLqKpeNpwVFYk96KQ26ws5",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2217265247
+  },
+  {
+    "name": "at-acbuk",
+    "value": "Atza|IwEBIM9L1zqpD7ojoaShdMRYjFARHqsc9BS9jChbhs2yS7-iqFsJBBauhKwfS8MBbKlKmK43gpJIE5HMB4gaTuNBYBJiiZGf26Cb62jfB9rcVT2MnGg7_xdzG4bGiJPkydosTe96Fg34XimuxxQbLs5NNFdZDnV3OBREKKhNrgARssw96K8Z26eRCNXRNwLGMaVU8BXymw7DHbItTwtul0mOW6XiUQiWy3NPHdDnfLOBiSiYxjer-DdNUiu3a451VJAbpEsz4dQZoGCEnQLcLZ3v4dPEiMBNAwfQi4u4anRtEHwy0PdOmAzE5STKjwzfsLaBNThuMBG3k0Qi3smiNcF1VO7FV7SQaqnxBifO5r09PIrT-wS628T9bBZ5P69AsB6D3VSov_Vt2_E17v08g-ZwTB08KZ9cG5xPh95odPCJTfNWTwGF0ulfnlJoR7TS_RtGyDc",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2217265247
+  },
+  {
+    "name": "sess-at-acbuk",
+    "value": "\"NsKlb0h16emRaKaDwX377HzGJgqsEMI1DFCQN8ONNE4=\"",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2217265247
+  },
+  {
+    "name": "sst-acbuk",
+    "value": "Sst1|PQHakCE7vmQGY3BM5o4SnNfWCwiugZ5V0uLkY9GyfNo8jhQsyXhlcLOU5sB4LKAFtP1AFLjf5Ac4jZiRCeeRn34jD1qm-BfUHWEtIN8A4cmUpRe2B5_ApzzNLwoxxiwbJTCqfEqRu-qwLS6sqGzZRvC9zZeGFbOTgSJa9CEkSTd3Bs8LyOskhSuRrbPhI_uhH4aHOThPcViUGLw1th6CMn41TYrVm5lJNCne-8RzEme9Md0kHRZyXhn2ziMQCznbAdA8gEIfVZL8dgpg6db1iba3AhF1heve9fjPZTsc9iy5nsjojdc_NcBjd5WWakf182yAWZZzY3SktAoQNg0F-d3QuQ",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2217265247
+  },
+  {
+    "name": "lc-acbuk",
+    "value": "en_GB",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2217265247
+  },
+  {
+    "name": "session-token",
+    "value": "kUC4koCf3d46fuYGlDkJztInOJOQqvvcmGR+rvZMXFWV8YTzEvUQDj8GO2fkzR6KsRa54VWvzwFUZP+VAVbVHHJlyKuy/f31B87F9YwkdIoSgiwKtjvmkv+5ewbAeXyaT7NbcqCFW8tJCBbT3gbvqKP+Q/f70as1PfxXGu/sClYDdae6Cc/HY05MAfo8L9p4UvGTWFiVjvF4LehaDXzrz32qZSZCQ0ySJUzD9C9M3vwSBRooIYs4ob/GvmtTMAav+vAuRxStUSfGieCuEVv7Gg==",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2217265247
+  },
+  {
+    "name": "csm-hit",
+    "value": "tb:s-4PWFJGQP2G1Z6NDW6QK0|1586112246525&t:1586112246525&adb:adblk_no",
+    "path": "/",
+    "domain": ".amazon.co.uk",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2217265248
+  }
+]

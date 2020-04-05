@@ -50,7 +50,7 @@ describe("Amazon Fresh", function () {
         cy.get(".date-button-item:eq(1)").click();
         cy.contains(`No morning delivery windows are available for ${tomorrow}`);
         cy.contains(`No afternoon delivery windows are available for ${tomorrow}`);
-        cy.contains(`No evening delivery windows are available for ${tomorrow}x`);
+        cy.contains(`No evening delivery windows are available for ${tomorrow}`);
       });
     });
   });

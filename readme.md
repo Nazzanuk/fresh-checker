@@ -1,4 +1,4 @@
-###Amazon Fresh Checkout Tester
+## Amazon Fresh Checkout Tester
 
 You'll need node installed along with npm/yarn.
 

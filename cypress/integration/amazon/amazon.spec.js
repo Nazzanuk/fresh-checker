@@ -14,6 +14,10 @@ const webhookToCallOnFail = config.webhook;
 /** Tests **/
 Cypress.on("fail", () => {
   webhookToCallOnFail && axios.get(webhookToCallOnFail);
+
+  var audio = new Audio('https://www.tones7.com/media/very_nice_alarm.mp3');
+  audio.play();
+
   return Cypress.stop(); //save the page as it is
 });
 
